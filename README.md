@@ -1,4 +1,5 @@
 # demo_repo
 This is a demo repo created for learning.
-This changes are made by teja.
+<br>
+This changes are made by teja.<br>
 Want to know what commit does?
